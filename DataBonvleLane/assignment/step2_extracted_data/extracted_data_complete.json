@@ -1,0 +1,241 @@
+{
+  "agency": {
+    "__typename": "Agency",
+    "agencyId": 10312,
+    "name": "Luton Properties Tuggeranong",
+    "isArchived": false,
+    "branding": {
+      "__typename": "AgencyBranding",
+      "backgroundColour": "#4D85C5",
+      "banner": {
+        "__typename": "Image",
+        "url": "https://rimh2.domainstatic.com.au/O79poanDssL4f_qNu4mM_ar9W9U=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/10312/banner_10312.jpeg?date=638728801327769237"
+      },
+      "logo": {
+        "__typename": "Image",
+        "url": "https://rimh2.domainstatic.com.au/l3ES8Z9Z_W5bK8Ajr8XW2qMVc84=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/10312/logo_10312.jpeg?date=638728801327769256"
+      },
+      "logoColour": "#4D85C5",
+      "logoSmall": {
+        "__typename": "Image",
+        "url": "https://rimh2.domainstatic.com.au/KatbtKOyhgAN9pZ3GvSBFhJ3W68=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/10312/searchlogo_10312.jpeg?date=638728801327769249"
+      }
+    },
+    "contactDetails": {
+      "__typename": "AgencyContactDetails",
+      "general": {
+        "__typename": "AgencyContactDetailsGeneral",
+        "phone": "02 61763448"
+      }
+    },
+    "profileUrl": "lutonpropertiestuggeranong-10312",
+    "website": "http://www.luton.com.au/"
+  },
+  "agentProfiles": [
+    {
+      "agentId": "1884714",
+      "email": "kelsey.tracey@luton.com.au",
+      "firstName": "Kelsey",
+      "isActiveProfilePage": true,
+      "landlineNumber": "(02) 6176 3448",
+      "lastName": "Tracey",
+      "phoneNumber": "0414 422 824",
+      "photo": "https://rimh2.domainstatic.com.au/VMjcup7r19YmwYavOHejaAXkS_U=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/10312/contact_1884714.jpeg?date=638727332779100000",
+      "profileUrl": "https://www.domain.com.au/real-estate-agent/kelsey-tracey-1884714"
+    },
+    {
+      "agentId": "1541777",
+      "email": "michael.martin@luton.com.au",
+      "firstName": "Michael",
+      "isActiveProfilePage": true,
+      "landlineNumber": "(02) 6176 3448",
+      "lastName": "Martin",
+      "phoneNumber": "0411748805",
+      "photo": "https://rimh2.domainstatic.com.au/0_a4UNChiY6gmw8FpVsBanqeHqQ=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/10312/contact_1894318.jpeg?date=638728004242500000",
+      "profileUrl": "https://www.domain.com.au/real-estate-agent/michael-martin-1541777"
+    }
+  ],
+  "description": {
+    "description": "Experience More . . . \\n\\nTranquil Living | Overflowing Character | Prime Elevation \\n\\nThis character filled split-level designed residence overdelivers in space, breathtaking features and family functionality all complimented by spacious yard spaces and stunning mountain views."
+  },
+  "displayAddress": {
+    "__typename": "Address",
+    "displayAddress": "7 Armfield Place, Chisholm ACT 2905",
+    "displayType": "FULL_ADDRESS",
+    "geolocation": {
+      "__typename": "Geolocation",
+      "latitude": -35.425788,
+      "longitude": 149.1289621
+    },
+    "mapCertainty": 9,
+    "postcode": "2905",
+    "state": "ACT",
+    "street": "Armfield Place",
+    "streetNumber": "7",
+    "suburbId": null,
+    "suburbName": "Chisholm",
+    "unitNumber": null
+  },
+  "headline": {
+    "headline": "Character, Charm, Elevation"
+  },
+  "historySale": {
+    "agencyId": 10312,
+    "soldDate": null,
+    "soldPrice": null
+  },
+  "pro_meta": {
+    "address": "7 Armfield Place, Chisholm ACT 2905",
+    "adtype": "premiumPlus",
+    "agency": "Luton Properties Tuggeranong",
+    "agencyId": 10312,
+    "agentNames": "Kelsey Tracey, Michael Martin",
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "buildingsize": 185,
+    "dateListed": "2025-01-17T17:54:39.000",
+    "daysListed": 1,
+    "descriptionHasEmail": false,
+    "descriptionHasPhone": true,
+    "floorPlansCount": 1,
+    "hasDescription": true,
+    "hasDisplayPrice": true,
+    "hasFloorplan": true,
+    "hasPhoto": true,
+    "hasSOI": false,
+    "images": [
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_1_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_2_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_3_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_4_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_5_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_6_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_7_1_250117_065438-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_8_1_250117_065438-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_9_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_10_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_11_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_12_1_250117_065438-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_13_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_14_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_15_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_16_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_17_1_250117_065438-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_18_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_19_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_20_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_21_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_22_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_23_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_24_1_250117_065438-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_25_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_26_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_27_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_28_1_250117_065438-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_29_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_30_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_31_1_250117_065437-w1920-h1280",
+      "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_32_1_250117_065438-w1920-h1280"
+    ],
+    "inspectionsCount": 1,
+    "internalArea": 185,
+    "landArea": 961,
+    "onlineAuctionAvailable": "None",
+    "parking": 1,
+    "photoCount": 32,
+    "postcode": "2905",
+    "price": "Auction on 08/02/2025 at 9:00AM",
+    "primaryPropertyType": "House",
+    "propertyId": "YT-0730-DN",
+    "saleMethod": "auction",
+    "secondaryPropertyType": null,
+    "state": "ACT",
+    "structuredFeatures": [
+      {
+        "name": "Energy Eff. Rating: 2",
+        "source": "advertiser"
+      }
+    ],
+    "suburb": "Chisholm",
+    "videoCount": 0,
+    "virtualTour": false,
+    "x-message": "domain-propertyinfo"
+  },
+  "propertyType": {
+    "propertyType": "Townhouse"
+  },
+  "saleInfo": {
+    "expectedPrice": null,
+    "listingOption": "sale",
+    "pricing": {
+      "authority": "for-sale",
+      "priceIncludes": [
+        ""
+      ],
+      "pricingOptions": "Auction on 08/02/2025 at 9:00AM"
+    },
+    "soldDateInfo": "",
+    "status": "for-sale"
+  },
+  "schools": {
+    "schools": [
+      {
+        "address": "Chisholm, ACT 2905",
+        "distance": 1052.867250356091,
+        "domainSeoUrlSlug": "caroline-chisholm-school-junior-campus-act-2905-50223",
+        "educationLevel": "primary",
+        "gender": "",
+        "id": "",
+        "name": "Caroline Chisholm School - Junior Campus",
+        "postCode": "2905",
+        "state": "ACT",
+        "status": "Open",
+        "type": "Government",
+        "url": "",
+        "year": ""
+      },
+      {
+        "address": "Chisholm, ACT 2905",
+        "distance": 1053.5157859995209,
+        "domainSeoUrlSlug": "caroline-chisholm-high-school-act-2905-1274",
+        "educationLevel": "secondary",
+        "gender": "CoEd",
+        "id": "1274",
+        "isRadiusResult": true,
+        "name": "Caroline Chisholm School",
+        "postCode": "2905",
+        "state": "ACT",
+        "status": "Open",
+        "type": "Government",
+        "url": "http://www.chisholm.act.edu.au/",
+        "year": "K-10"
+      },
+      {
+        "address": "Calwell, ACT 2905",
+        "distance": 1872.4039682324758,
+        "domainSeoUrlSlug": "st-francis-of-assisi-primary-school-act-2905-10449",
+        "educationLevel": "primary",
+        "gender": "CoEd",
+        "id": "10449",
+        "name": "St Francis of Assisi Primary School",
+        "postCode": "2905",
+        "state": "ACT",
+        "status": "Open",
+        "type": "Catholic",
+        "url": "http://www.stfa.act.edu.au",
+        "year": "K-6"
+      }
+    ]
+  },
+  "slug": {
+    "slug": "7-armfield-place-chisholm-act-2905"
+  },
+  "structuredFeatures": [
+    {
+      "name": "Energy Eff. Rating: 2",
+      "source": "advertiser"
+    }
+  ],
+  "totalarea": 961,
+  "url": "https://www.domain.com.au/7-armfield-place-chisholm-act-2905-2019733340"
+}
