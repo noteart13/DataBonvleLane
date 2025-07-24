@@ -1,0 +1,505 @@
+{
+  "agency": {
+    "agencyId": 10312,
+    "banner": "https://rimh2.domainstatic.com.au/O79poanDssL4f_qNu4mM_ar9W9U=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/10312/banner_10312.jpeg?date=638728801327769237",
+    "contactDetails": "02 61763448",
+    "isArchived": false,
+    "logo": "https://rimh2.domainstatic.com.au/l3ES8Z9Z_W5bK8Ajr8XW2qMVc84=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/10312/logo_10312.jpeg?date=638728801327769256",
+    "logoSmall": "https://rimh2.domainstatic.com.au/KatbtKOyhgAN9pZ3GvSBFhJ3W68=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/10312/searchlogo_10312.jpeg?date=638728801327769249",
+    "name": "Luton Properties Tuggeranong",
+    "profileUrl": "lutonpropertiestuggeranong-10312",
+    "website": "http://www.luton.com.au/"
+  },
+  "agents": [
+    {
+      "agentId": "1884714",
+      "email": "kelsey.tracey@luton.com.au",
+      "firstName": "Kelsey",
+      "isActiveProfilePage": true,
+      "lastName": "Tracey",
+      "phoneNumber": "0414 422 824",
+      "photo": "https://rimh2.domainstatic.com.au/VMjcup7r19YmwYavOHejaAXkS_U=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/10312/contact_1884714.jpeg?date=638727332779100000",
+      "profileUrl": "https://www.domain.com.au/real-estate-agent/kelsey-tracey-1884714"
+    },
+    {
+      "agentId": "1541777",
+      "email": "michael.martin@luton.com.au",
+      "firstName": "Michael",
+      "isActiveProfilePage": true,
+      "lastName": "Martin",
+      "phoneNumber": "0411748805",
+      "photo": "https://rimh2.domainstatic.com.au/0_a4UNChiY6gmw8FpVsBanqeHqQ=/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/10312/contact_1894318.jpeg?date=638728004242500000",
+      "profileUrl": "https://www.domain.com.au/real-estate-agent/michael-martin-1541777"
+    }
+  ],
+  "images": [
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_1_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_2_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_3_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_4_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_5_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_6_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_7_1_250117_065438-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_8_1_250117_065438-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_9_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_10_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_11_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_12_1_250117_065438-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_13_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_14_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_15_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_16_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_17_1_250117_065438-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_18_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_19_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_20_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_21_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_22_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_23_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_24_1_250117_065438-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_25_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_26_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_27_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_28_1_250117_065438-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_29_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_30_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_31_1_250117_065437-w1920-h1280"
+    },
+    {
+      "category": "kitchen",
+      "star": false,
+      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_32_1_250117_065438-w1920-h1280"
+    }
+  ],
+  "propertyforsale": {
+    "architecturalStyle": "None",
+    "area": {
+      "totalarea": 961,
+      "unit": "sqM"
+    },
+    "bath": 2,
+    "bed": 4,
+    "city": "Unincorporated Act",
+    "constructionYear": "N/A",
+    "contactInfo": [
+      {
+        "email": "kelsey.tracey@luton.com.au",
+        "firstName": "Kelsey",
+        "lastName": "Tracey",
+        "phoneNumber": "0414 422 824"
+      },
+      {
+        "email": "michael.martin@luton.com.au",
+        "firstName": "Michael",
+        "lastName": "Martin",
+        "phoneNumber": "0411748805"
+      }
+    ],
+    "coordinates": {
+      "lat": -35.425788,
+      "lng": 149.1289621
+    },
+    "description": "Experience More . . . \\n\\nTranquil Living | Overflowing Character | Prime Elevation \\n\\nThis character filled split-level designed residence overdelivers in space, breathtaking features and family functionality all complimented by spacious yard spaces and stunning mountain views.",
+    "expectedPrice": null,
+    "features": {
+      "appliances": [
+        "None"
+      ],
+      "basement": "None",
+      "buildingAmenities": [
+        "None"
+      ],
+      "coolingTypes": [
+        "None"
+      ],
+      "displayAddress": "fullAddress",
+      "floorCovering": [
+        "None"
+      ],
+      "floorno": 1,
+      "garage": 1,
+      "heatingFuels": [
+        "None"
+      ],
+      "heatingTypes": [
+        "None"
+      ],
+      "indoorFeatures": [
+        "None"
+      ],
+      "outdoorAmenities": [
+        "None"
+      ],
+      "parking": [
+        "Carport"
+      ],
+      "roof": [
+        "Other"
+      ],
+      "rooms": [
+        "None"
+      ],
+      "view": [
+        "None"
+      ]
+    },
+    "historySale": {
+      "agencyId": 10312,
+      "soldDate": null,
+      "soldPrice": null
+    },
+    "images": [
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_1_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_2_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_3_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_4_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_5_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_6_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_7_1_250117_065438-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_8_1_250117_065438-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_9_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_10_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_11_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_12_1_250117_065438-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_13_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_14_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_15_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_16_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_17_1_250117_065438-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_18_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_19_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_20_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_21_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_22_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_23_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_24_1_250117_065438-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_25_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_26_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_27_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_28_1_250117_065438-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_29_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_30_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_31_1_250117_065437-w1920-h1280"
+      },
+      {
+        "category": "kitchen",
+        "star": false,
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019733340_32_1_250117_065438-w1920-h1280"
+      }
+    ],
+    "listingOption": "sale",
+    "postcode": "2905",
+    "pricing": {
+      "authority": "for-sale",
+      "councilBill": "",
+      "priceIncludes": [
+        ""
+      ],
+      "pricingOptions": "Auction on 08/02/2025 at 9:00AM",
+      "waterBillPeriod": "monthly"
+    },
+    "propertyType": "Townhouse",
+    "published": false,
+    "recommended": false,
+    "slug": "7-armfield-place-chisholm-act-2905",
+    "stakeHolder": "agent",
+    "state": "ACT",
+    "status": "for-sale",
+    "street": "7 Armfield Place, Chisholm ACT 2905",
+    "structuralRemodelYear": "N/A",
+    "suburb": "Chisholm",
+    "title": "Character, Charm, Elevation",
+    "url": "https://www.domain.com.au/7-armfield-place-chisholm-act-2905-2019733340"
+  },
+  "schools": [
+    {
+      "address": "Chisholm, ACT 2905",
+      "distance": 1052.867250356091,
+      "domainSeoUrlSlug": "caroline-chisholm-school-junior-campus-act-2905-50223",
+      "educationLevel": "primary",
+      "gender": "",
+      "name": "Caroline Chisholm School - Junior Campus",
+      "postCode": "2905",
+      "state": "ACT",
+      "status": "Open",
+      "type": "Government",
+      "url": "",
+      "year": ""
+    },
+    {
+      "address": "Chisholm, ACT 2905",
+      "distance": 1053.5157859995209,
+      "domainSeoUrlSlug": "caroline-chisholm-high-school-act-2905-1274",
+      "educationLevel": "secondary",
+      "gender": "CoEd",
+      "name": "Caroline Chisholm School",
+      "postCode": "2905",
+      "state": "ACT",
+      "status": "Open",
+      "type": "Government",
+      "url": "http://www.chisholm.act.edu.au/",
+      "year": "K-10",
+      "isRadiusResult": true
+    },
+    {
+      "address": "Calwell, ACT 2905",
+      "distance": 1872.4039682324758,
+      "domainSeoUrlSlug": "st-francis-of-assisi-primary-school-act-2905-10449",
+      "educationLevel": "primary",
+      "gender": "CoEd",
+      "name": "St Francis of Assisi Primary School",
+      "postCode": "2905",
+      "state": "ACT",
+      "status": "Open",
+      "type": "Catholic",
+      "url": "http://www.stfa.act.edu.au",
+      "year": "K-6"
+    }
+  ]
+}
